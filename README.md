@@ -25,7 +25,7 @@ yarn install
 # 使用 bun
 bun install
 
-启动开发服务器，你将能够在 http://localhost:3000 上查看你的个人简历网站：
+启动开发服务器，你将能够在 http://localhost:3333 上查看你的个人简历网站：
 
 # 使用 npm
 npm run dev
