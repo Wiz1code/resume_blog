@@ -1,80 +1,68 @@
-<<<<<<< HEAD
-# resume_blog
-个人简历网站
-=======
-# Nuxt 3 Minimal Starter
+# 个人简历网站
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+欢迎来到我的个人简历网站！这是一个使用 Nuxt 3 构建的极简启动项目。
 
-## Setup
+## 关于本项目
 
-Make sure to install the dependencies:
+这个项目是一个简洁的个人简历网站，使用 Nuxt 3 作为框架，旨在展示我的专业技能和工作经历。它不仅作为一个在线简历，同时也是我技术能力的展示。
+
+## 快速开始
+
+### 安装依赖
+
+请确保你已经安装了 Node.js。之后，你可以选择以下任一包管理器来安装项目的依赖：
 
 ```bash
-# npm
+# 使用 npm
 npm install
 
-# pnpm
+# 使用 pnpm
 pnpm install
 
-# yarn
+# 使用 yarn
 yarn install
 
-# bun
+# 使用 bun
 bun install
-```
 
-## Development Server
+启动开发服务器，你将能够在 http://localhost:3000 上查看你的个人简历网站：
 
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
+# 使用 npm
 npm run dev
 
-# pnpm
+# 使用 pnpm
 pnpm run dev
 
-# yarn
+# 使用 yarn
 yarn dev
 
-# bun
+# 使用 bun
 bun run dev
-```
+生产环境
+为生产环境构建应用程序：
 
-## Production
-
-Build the application for production:
-
-```bash
-# npm
+# 使用 npm
 npm run build
 
-# pnpm
+# 使用 pnpm
 pnpm run build
 
-# yarn
+# 使用 yarn
 yarn build
 
-# bun
+# 使用 bun
 bun run build
-```
+本地预览生产构建
+在本地预览生产构建：
 
-Locally preview production build:
-
-```bash
-# npm
+# 使用 npm
 npm run preview
 
-# pnpm
+# 使用 pnpm
 pnpm run preview
 
-# yarn
+# 使用 yarn
 yarn preview
 
-# bun
+# 使用 bun
 bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
->>>>>>> a456178 (init:初始提交)
